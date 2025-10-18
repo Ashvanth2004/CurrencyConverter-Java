@@ -19,5 +19,5 @@ This project can be run in **console mode** or optionally with a **GUI interface
 ## Installation
 
 1. **Download or clone the repository**:
-   ```bash
-   git clone <your-repo-url>
+   ```bash[
+  https://github.com/Ashvanth2004/CurrencyConverter-Java.git
